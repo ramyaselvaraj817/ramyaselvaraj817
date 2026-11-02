@@ -47,6 +47,9 @@ Jest · React Testing Library · Playwright · Cypress · Vite · Webpack · Rol
 **AI (applied)**
 OpenAI SDK · Tool calling · RAG · Vector search · Structured outputs · Prompt engineering · AI evals
 
+**Currently learning**
+Deeper AI engineering (agent loops, evaluation, observability) and backend system design
+
 ## Writing
 - [Your Order API Works — Until Two Customers Click Buy at the Same Time](https://medium.com/@ramya_selvaraj/your-order-api-works-until-two-customers-click-buy-at-the-same-time-96fdae35be86)
 - [The Prompt Is Not Code: Why LLMs Aren’t Deterministic](https://medium.com/@ramya_selvaraj/part-1-the-prompt-is-not-code-why-llms-arent-deterministic-7d3d9f48daaf)
@@ -56,5 +59,4 @@ OpenAI SDK · Tool calling · RAG · Vector search · Structured outputs · Prom
 - [When dangerouslySetInnerHTML is Mandatory: Implementing Secure Design Patterns for Rich Text Payloads](https://medium.com/@ramya_selvaraj/when-dangerouslysetinnerhtml-is-mandatory-implementing-secure-design-patterns-for-rich-text-4495c1fcbc4e)
 - [The Architectural Pivot: Micro-frontends vs. Monoliths](https://medium.com/@ramya_selvaraj/the-architectural-pivot-micro-frontends-vs-monoliths-90a8d4b24dec)
 
-**Currently learning**
-Deeper AI engineering (agent loops, evaluation, observability) and backend system design
+
