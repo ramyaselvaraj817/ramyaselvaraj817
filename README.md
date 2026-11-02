@@ -20,9 +20,12 @@ Senior Frontend Engineer with 10 years building React and TypeScript application
 for 2 million monthly users. I focus on performance, accessibility, and maintainable UI systems.
 
 ## Featured projects
+<!--
 - **StreamView**: TV-first streaming UI with D-pad focus management, route-based code splitting, and Playwright tests. [Repo] · [Demo]
 - **Front-End Performance Lab**: React/TypeScript benchmarking for Core Web Vitals, bundle size, and rendering. [Repo] · [Demo]
 - **frontend-patterns**: Reusable frontend patterns and examples. [Repo]
+-->
+- Fastify + TypeScript order service with PostgreSQL transactions, idempotency keys, JWT auth, and Jest tests.
 
 ## Skills
 
