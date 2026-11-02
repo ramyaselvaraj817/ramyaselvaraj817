@@ -26,6 +26,7 @@ for 2 million monthly users. I focus on performance, accessibility, and maintain
 - **frontend-patterns**: Reusable frontend patterns and examples. [Repo]
 -->
 - **OrderManagementApi**: Fastify + TypeScript order service with PostgreSQL transactions, idempotency keys, JWT auth, and Jest tests.
+- **react-design-system**: A React design system in TypeScript: design tokens, accessible primitives and overlays (Modal, Toast, Tooltip), Storybook docs, and tests, built as a pnpm + Turborepo monorepo.
 
 ## Skills
 
