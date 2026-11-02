@@ -49,7 +49,7 @@ OpenAI SDK · Tool calling · RAG · Vector search · Structured outputs · Prom
 
 ## Writing
 - [Your Order API Works — Until Two Customers Click Buy at the Same Time](https://medium.com/@ramya_selvaraj/your-order-api-works-until-two-customers-click-buy-at-the-same-time-96fdae35be86)
-- [Closures Aren't Magic, They're Just Lexical Environments That Refuse to Die](https://medium.com/@ramya_selvaraj/part-1-the-prompt-is-not-code-why-llms-arent-deterministic-7d3d9f48daaf)
+- [The Prompt Is Not Code: Why LLMs Aren’t Deterministic](https://medium.com/@ramya_selvaraj/part-1-the-prompt-is-not-code-why-llms-arent-deterministic-7d3d9f48daaf)
 - [The Button Is Not Just a Button](https://medium.com/@ramya_selvaraj/the-button-is-not-just-a-button-150b302775da)
 - [Closures Aren’t Magic, They’re Just Lexical Environments That Refuse to Die](https://medium.com/@ramya_selvaraj/closures-arent-magic-they-re-just-lexical-environments-that-refuse-to-die-0501bfd70a4e)
 - [Googlebot is Your First User: Rethinking Frontend Architecture](https://medium.com/@ramya_selvaraj/googlebot-is-your-first-user-rethinking-frontend-architecture-d2190849b4a0)
