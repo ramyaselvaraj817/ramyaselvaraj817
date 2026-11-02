@@ -24,9 +24,6 @@ for 2 million monthly users. I focus on performance, accessibility, and maintain
 - **Front-End Performance Lab**: React/TypeScript benchmarking for Core Web Vitals, bundle size, and rendering. [Repo] · [Demo]
 - **frontend-patterns**: Reusable frontend patterns and examples. [Repo]
 
-## Stack
-React · TypeScript · Next.js · Vite · Playwright · Jest · Storybook
-
 ## Skills
 
 **Frontend**
