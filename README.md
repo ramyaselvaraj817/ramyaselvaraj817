@@ -25,7 +25,7 @@ for 2 million monthly users. I focus on performance, accessibility, and maintain
 - **Front-End Performance Lab**: React/TypeScript benchmarking for Core Web Vitals, bundle size, and rendering. [Repo] · [Demo]
 - **frontend-patterns**: Reusable frontend patterns and examples. [Repo]
 -->
-- Fastify + TypeScript order service with PostgreSQL transactions, idempotency keys, JWT auth, and Jest tests.
+- **OrderManagementApi**: Fastify + TypeScript order service with PostgreSQL transactions, idempotency keys, JWT auth, and Jest tests.
 
 ## Skills
 
